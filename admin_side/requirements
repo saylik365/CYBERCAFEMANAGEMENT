@@ -1,0 +1,32 @@
+
+/*Admin Side Settings*/
+
+1. Updated user should be showed in manage users.
+2. Updated user should update more than one time.
+3. Truncate all the tables and entry everything neatly.
+4. In search, Updated users should also be seached.
+5. In Add users, add Cabin field with dropdown/select.
+6. Another form of Cabin should be formed similar to manage computer.
+
+
+
+
+/*Updated Settings*/
+
+1.Add delete in manage computers. 
+
+
+
+/*Website Settings*/
+
+1.Display all Computers with different pages.(team.html page should be used) [done]
+2.Contact Us form design.[done]
+3.User login design and insert.[pending....can't do it ]
+4.Footer design. [done]
+5.Remove Search. [done]
+6.Add logo on index page.
+7.Change telephone no. [done]
+8.Go through all over the project.....(admin_side).
+
+
+
